@@ -2,7 +2,7 @@ import java.util.ArrayList;
 import java.util.HashMap;
 
 /**
- * Created by "P.Khodaparast" on 2019-02-15.
+ * Created by "F.Khodaparast" on 2019-02-15.
  */
 public class Solution {
 
