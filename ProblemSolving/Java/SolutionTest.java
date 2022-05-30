@@ -1,44 +1,4 @@
-//import java.io.*;
-//import java.util.*;
-//
-//public class Solution {
-//
-//    static float getMean(float[] vals) {
-//        float result = 0;
-//        for (int i = 0; i < vals.length; i++) {
-//            result = result + vals[i];
-//        }
-//        if (vals.length != 0) result = result / vals.length;
-//        return result;
-//    }
-//
-//    static float getMedian(float[] vals) {
-//        Arrays.sort(vals);
-//        float result=0;
-//        if (vals.length % 2 == 0){
-//            float firstElement=vals[vals.length/2];
-//            float secondElement=vals[vals.length/2-1];
-//            return (firstElement+secondElement)/2;
-//        }
-//        else return (float) (Math.floor(vals.length/2)+1);
-//
-//    }
-//    static  float getMode(float[] vals){
-//        Arrays.sort(vals);
-//        in
-//        for (int i=0;i<vals.length;i++){
-//
-//        }
-//    }
-//
-//    public static void main(String[] args) {
-//        /* Enter your code here. Read input from STDIN. Print output to STDOUT. Your class should be named Solution. */
-//        float[] vals = {3, 1, 1, 4};
-//        System.out.println(getMean(vals));
-//        System.out.println(getMedian(vals));
-//    }
-//}
-//
+
 import java.io.*;
 import java.math.*;
 import java.security.*;
